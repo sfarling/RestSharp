@@ -89,7 +89,7 @@ namespace RestSharpTest
                 var paramBody = "{\"name\": \"CplusParameter_SetValue\"," +
                     "\"params\": [\"Name\",\"Value\"]," +
                     "\"values\": [\"" + paramName + "\",\"" + paramValue + "\"]," +
-                    "\"dataTypes\": [\"String\"]," +
+                    "\"dataTypes\": [\"String\",\"String\"]," +
                     "\"dbName\": \"\"," +
                     "\"schemaName\": \"Nuvia\"}";
 
