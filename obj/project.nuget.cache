@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "mg/QZgJJNlA7XrFDR8yQFEZ4wTrMPqGxRvt63PUXQ5vzMRMACHB+b6n/3CLzTssgTSBn8TuSV4hRu6VgMU2Wog==",
+  "dgSpecHash": "Wivj6PDQX3+twrCUehtiRCcALGDa2CTd5Fio9FxCjQUpPla0QpF7EXZvWFbk6llwIi7OJZk9/iCSPvDtQZNmjA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestNuvia\\RestNuvia\\RestSharpTest\\RestSharpTest.csproj",
+  "projectFilePath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestSharpTest\\RestSharp\\RestSharpTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\sfarling\\.nuget\\packages\\microsoft.aspnet.webapi.client\\5.2.7\\microsoft.aspnet.webapi.client.5.2.7.nupkg.sha512",
     "C:\\Users\\sfarling\\.nuget\\packages\\microsoft.netcore.platforms\\5.0.0\\microsoft.netcore.platforms.5.0.0.nupkg.sha512",

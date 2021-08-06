@@ -5032,11 +5032,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sfarling\\Documents\\GitHub\\RestNuvia\\RestNuvia\\RestSharpTest\\RestSharpTest.csproj",
+      "projectUniqueName": "C:\\Users\\sfarling\\Documents\\GitHub\\RestSharpTest\\RestSharp\\RestSharpTest.csproj",
       "projectName": "RestSharpTest",
-      "projectPath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestNuvia\\RestNuvia\\RestSharpTest\\RestSharpTest.csproj",
+      "projectPath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestSharpTest\\RestSharp\\RestSharpTest.csproj",
       "packagesPath": "C:\\Users\\sfarling\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestNuvia\\RestNuvia\\RestSharpTest\\obj\\",
+      "outputPath": "C:\\Users\\sfarling\\Documents\\GitHub\\RestSharpTest\\RestSharp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\sfarling\\AppData\\Roaming\\NuGet\\NuGet.Config",
