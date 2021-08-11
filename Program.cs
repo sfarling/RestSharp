@@ -12,7 +12,8 @@ namespace RestSharpTest
 
         static void Main()
         {
-            NuviaRest.GetParameter("Environment");
+            NuviaRest.PreprocessRetryItems();
+            NuviaRest.GetParameter("FacilityID");
             NuviaRest.SetParameter("spf", "Scott Farling");
             NuviaRest.SelectNextRecord();
             NuviaRest.Ccat_GetRecord();

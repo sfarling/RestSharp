@@ -7,7 +7,7 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "RestSharpTest", "RestSharpT
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "NuviaRest", "NuviaRest", "{129505D4-836B-4EC8-971A-1A2CDA50CFA7}"
 	ProjectSection(SolutionItems) = preProject
-		CcatItem.cs = CcatItem.cs
+		CcatRestItem.cs = CcatRestItem.cs
 		NuviaItemStatus.cs = NuviaItemStatus.cs
 		NuviaRest.cs = NuviaRest.cs
 	EndProjectSection

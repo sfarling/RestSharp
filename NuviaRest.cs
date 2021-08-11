@@ -631,6 +631,27 @@ namespace RestSharpTest
             return;
         }
 
+        public static void PreprocessRetryItems()
+        {
+            try
+            {
+                //add Body parameter to REST request
+                var paramBody = "{\"name\": \"Ccat_PreprocessRetryItems\"," +
+                    "\"params\": []," +                 
+                    "\"values\": []," +
+                    "\"dataTypes\": []," +
+                    "\"dbName\": \"\"," +
+                    "\"schemaName\": \"Nuvia\"}";
+
+                ClientConnectPost(paramBody);
+
+            }
+            catch (Exception ex)
+            {
+                //ApplicationLog.WriteError("Failed to execute Ccat_PreprocessRetryItems: " + ex.Message);
+            }
+        }
+
 
 
     }
