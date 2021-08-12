@@ -652,6 +652,25 @@ namespace RestSharpTest
             }
         }
 
+        /// <summary>
+        /// Checks to see if there are any records that need processing.
+        /// </summary>
+        /// <returns>True if records need processing, false if not.</returns>
+        public bool AnyRecordsToProcess()
+        {
+            bool result = false;
+
+            try
+            {
+                result = (SelectNextRecord() != null);
+            }
+            catch (Exception ex)
+            {
+                //ApplicationLog.WriteError("Unable to check for records to process: " + ex.Message);
+            }
+
+            return result;
+        }
 
 
     }
